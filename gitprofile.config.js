@@ -17,10 +17,12 @@ const config = {
     phone: '+1 (434) 235 - 0669',
     email: 'sehoanc@gmail.com',
   },
+  /*
   resume: {
     fileUrl:
       ' ', // Empty fileUrl will hide the `Download Resume` button.
   },
+  */
   skills: [
     'C++',
     'TypeScript',
