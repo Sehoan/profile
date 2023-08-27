@@ -13,7 +13,6 @@ const config = {
   social: {
     linkedin: 'sehoanc',
     instagram: 'swwan_c',
-    website: 'sehoan.github.io/profile',
     phone: '+1 (434) 235 - 0669',
     email: 'sehoanc@gmail.com',
   },
